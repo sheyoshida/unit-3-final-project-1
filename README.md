@@ -54,6 +54,9 @@ With that in mind, things to think about when ideating projects are the **techni
 |**API integration**|App does not integrate any APIs|App integrates 1 or 2 APIs that feel improperly integrated.|App integrates 3+ APIs that are implemented well.|App seamlessly integrates 4+ APIs|
 
 
+###Groups
+To be determined
+
 
 ### Tips & Ideas
 *  Things that would impress:
