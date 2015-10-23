@@ -27,17 +27,19 @@ With that in mind, things to think about when ideating projects are the **techni
 |3|Thursday 11/12|---|---|
 |3|Saturday 11/14|---|---|
 |3|Sunday 11/15|---|Weekly Retrospective|
-|4|Tuesday 11/17|---|---|
+|4|Tuesday 11/17|FIRST RELEASE + DEMO|Push Beta Builds, Logos Due, Presentation Deck Due|
 |4|Thursday 11/19|---|---|
 |4|Saturday 11/21|---|---|
 |4|Sunday 11/22|---|Weekly Retrospective|
-|5|Tuesday 11/17|---|---|
-|5|Thursday 11/19|---|---|
-|5|Saturday 11/21|---|---|
-|4|Sunday 11/22|---|Weekly Retrospective|
-
-
-
+|5|Tuesday 11/24|SECOND RELEASE + DEMO|---|
+|5|Thursday 11/26|Thanksgiving Break-No Class|---|
+|5|Saturday 11/28|Thanksgiving Break-No Class|---|
+|5|Sunday 11/29|Thanksgiving Break-No Class|Weekly Retrospective|
+|6|Tuesday 12/1|THIRD RELEASE + DEMO|Personal Pitches due|
+|6|Thursday 12/3|Individual meetings to review personal pitches|---|
+|6|Saturday 12/5|Individual meetings to review demos|---|
+|6|Sunday 12/6|---|Weekly Retrospective|
+|x|Tuesday 12/8|DEMO DAY|Submit final version to App Store|
 
 
 
