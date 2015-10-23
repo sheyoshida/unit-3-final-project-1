@@ -17,9 +17,9 @@ Please create a repository for your final project, with the following contents:
 #### Please submit the final project proposal by 9:00 an on Saturday 10/31/2015. You will receive feedback on the proposal on Tuesday 11/3.
 
 ---
-**Project Name: **
+**Project Name:**
 
-**Team Name: **
+**Team Name:**
 
 **Team Members:**  
 
