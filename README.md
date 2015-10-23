@@ -52,3 +52,24 @@ With that in mind, things to think about when ideating projects are the **techni
 |**Presentation**|Group does not present problem that their app solves, is unenthusiastic and does not increase interest in their app.  Pacing is much too fast or slow.|Group presents either problem, or solution but not both.  Group has some stage presence.  Pacing is slightly off.|Group presents both a problem and their solution.  Group has solid stage presence.  Pacing is reasonable.|Group expertly explains the need their app fills.  Group expertly commands the stage.  Pacing is perfectly geared to maximize impact.|
 |**Use Case**|Group does not explain who would use the app and what it does.|It is somewhat clear who would use the app and what it does.|Group clearly indicates who would use the app and what it does.|TBD|
 |**API integration**|App does not integrate any APIs|App integrates 1 or 2 APIs that feel improperly integrated.|App integrates 3+ APIs that are implemented well.|App seamlessly integrates 4+ APIs|
+
+
+
+### Tips & Ideas
+*  Things that would impress:
+  - Super cool library that other devs could use
+  - Integration of complex APIs (e.g video, web services, etc...)
+  - Awesome UI
+  - Work with the OS in a more intimate way 
+  - Advanced Separation of Concerns
+*  Things to Avoid:
+  -  Unusable: Good technical implementation, but does not consider the end user's interaction
+  -  Non-function: Good UI, but does not actually incorporate the tools needed to be feature complete.
+  -  Obvious: Solution can easily be found in tutorials or examples, copies an existing system tool, or simply strings together APIs.
+  -  Not Useful: This app doesn’t have a clear purpose or solve a problem. 
+*  Some sample project ideas:
+  -  Weather + Calendar
+  -  Poll app / trivia app 
+  -  Really good photo journal app
+  -  Really good note taking app
+
