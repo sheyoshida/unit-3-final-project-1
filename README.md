@@ -51,7 +51,6 @@ With that in mind, things to think about when ideating projects are the **techni
 |**Design**|The app is confusing, unintuitive and cluttered.  Does not work in both landscape and portrait.|Some, but not all pages have consistent design.  User experience is mixed.|The app has a consistent look and feel.  User experience is intuitive.|The app is simple to use and elegant.  The aesthetic and design perfectly match the app’s function.|
 |**Presentation**|Group does not present problem that their app solves, is unenthusiastic and does not increase interest in their app.  Pacing is much too fast or slow.|Group presents either problem, or solution but not both.  Group has some stage presence.  Pacing is slightly off.|Group presents both a problem and their solution.  Group has solid stage presence.  Pacing is reasonable.|Group expertly explains the need their app fills.  Group expertly commands the stage.  Pacing is perfectly geared to maximize impact.|
 |**Use Case**|Group does not explain who would use the app and what it does.|It is somewhat clear who would use the app and what it does.|Group clearly indicates who would use the app and what it does.|TBD|
-|**API integration**|App does not integrate any APIs|App integrates 1 or 2 APIs that feel improperly integrated.|App integrates 3+ APIs that are implemented well.|App seamlessly integrates 4+ APIs|
 
 
 ###Groups
