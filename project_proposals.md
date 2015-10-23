@@ -17,9 +17,12 @@ Please create a repository for your final project, with the following contents:
 #### Please submit the final project proposal by 9:00 an on Saturday 10/31/2015. You will receive feedback on the proposal on Tuesday 11/3.
 
 ---
-**Project Name**  
-**Team Name**  
-**Team Members**  
+**Project Name: **
+
+**Team Name: **
+
+**Team Members:**  
+
 
 ## The Problem 
 Describe the problem that your app will address. This does not need to be a novel idea or product, but your app should not directly recreate an existing product. If you are basing the app on an existing product, there should be some edge to your design or feature that solves a problem with that existing product.   
@@ -33,5 +36,5 @@ Please provide a detailed description of the app here. Map out how the app solve
 
 ## Execution
 Please describe how you will build this app. Include: 
-  *  A detailed timeline for building the product, broken out by weekly sprints. Think about the user stories you would frame your sprints around. *Projects should be planned to complete the build by Demo 1 on Thursday 11/24/2015.*  
+  *  A detailed timeline for building the product, broken out by weekly sprints. Think about the user stories you would frame your weeks around. *Projects should be planned to complete the build by Demo 1 on Thursday 11/24/2015.*  
   *  A breakdown of team member responsibilities. Team members should take ownership over a specific feature or aspect of the app.  
