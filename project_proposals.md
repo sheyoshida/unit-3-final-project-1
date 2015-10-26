@@ -14,7 +14,7 @@ Please create a repository for your final project, with the following contents:
 
 # Access Code 2.2 Final Project Proposal
 
-#### Please submit the final project proposal by 9:00 an on Saturday 10/31/2015. You will receive feedback on the proposal on Tuesday 11/3.
+#### For each group, please submit the final project proposal by 9:00 am on Saturday 10/31/2015. You will receive feedback on the proposal on Tuesday 11/3.
 
 ---
 **Project Name:**
