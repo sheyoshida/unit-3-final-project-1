@@ -36,5 +36,5 @@ Please provide a detailed description of the app here. Map out how the app solve
 
 ## Execution
 Please describe how you will build this app. Include: 
-  *  A detailed timeline for building the product, broken out by weekly sprints. Think about the user stories you would frame your weeks around. *Projects should be planned to complete the build by Demo 1 on Thursday 11/24/2015.*  
+  *  A detailed timeline for building the product, broken out by weekly sprints. Think about the user stories you would frame your weeks around. *Your polished MVP (baseline features) should be ready to demo by Demo 1 on Thursday 11/17/2015.*  
   *  A breakdown of team member responsibilities. Team members should take ownership over a specific feature or aspect of the app.  
