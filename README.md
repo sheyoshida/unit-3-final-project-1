@@ -31,7 +31,7 @@ With that in mind, things to think about when ideating projects are the **techni
 |4|Thursday 11/19|---|---|
 |4|Saturday 11/21|---|---|
 |4|Sunday 11/22|---|[Weekly Retrospective](/weekly_retrospective.md)|
-|5|Tuesday 11/24|SECOND RELEASE + DEMO|---|
+|5|Tuesday 11/24|SECOND RELEASE + DEMO|Presentation Scripts due|
 |5|Thursday 11/26|Thanksgiving Break-No Class|---|
 |5|Saturday 11/28|Thanksgiving Break-No Class|---|
 |5|Sunday 11/29|Thanksgiving Break-No Class|[Weekly Retrospective](/weekly_retrospective.md)|
