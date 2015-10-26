@@ -53,9 +53,10 @@ With that in mind, things to think about when ideating projects are the **techni
 |**Use Case**|Group does not explain who would use the app and what it does.|It is somewhat clear who would use the app and what it does.|Group clearly indicates who would use the app and what it does.|Group clearly indicates who would use the app and why their app is specifially targeted towards the demographic that they picked.|
 
 
-###Groups
-To be determined
-
+###Groups:  To be determined
+| Members | Team Name | Link to Repo | Mentor(s) |
+|---|---|---|---|
+|---|---|---|---|
 
 ### Tips & Ideas
 *  Things that would impress:
