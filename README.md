@@ -23,7 +23,7 @@ With that in mind, things to think about when ideating projects are the **techni
 |2|Thursday 11/5|Wireframing + Lessons Learned from 2.1 Final Projects|---|
 |2|Saturday 11/7|All day UI/Design Workshop|Wireframing due at 10:00 am|
 |2|Sunday 11/8|---|[Weekly Retrospective](/weekly_retrospective.md)|
-|3|Tuesday 11/10|---|---|
+|3|Tuesday 11/10|How to Demo Workshop|---|
 |3|Thursday 11/12|---|---|
 |3|Saturday 11/14|---|---|
 |3|Sunday 11/15|---|[Weekly Retrospective](/weekly_retrospective.md)|
