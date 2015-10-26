@@ -27,7 +27,7 @@ With that in mind, things to think about when ideating projects are the **techni
 |3|Thursday 11/12|---|---|
 |3|Saturday 11/14|---|---|
 |3|Sunday 11/15|---|[Weekly Retrospective](/weekly_retrospective.md)|
-|4|Tuesday 11/17|FIRST RELEASE + [DEMO](/presentation_guidelines.md)|Push Beta Builds, Logos Due, Presentation Deck Due|
+|4|Tuesday 11/17|FIRST RELEASE + DEMO|Push Beta Builds, Logos Due, Presentation Deck Due|
 |4|Thursday 11/19|---|---|
 |4|Saturday 11/21|---|---|
 |4|Sunday 11/22|---|[Weekly Retrospective](/weekly_retrospective.md)|
@@ -50,32 +50,14 @@ With that in mind, things to think about when ideating projects are the **techni
 |---|---|---|---|---|
 |**Performance**|App has major bugs.  App hangs and/or crashes.|App has minor bugs and/or hangs briefly.|App has no bugs and doesn’t hang.|App runs as smoothly and cleanly as a default iOS app. |
 |**Design**|The app is confusing, unintuitive and cluttered.  Does not work in both landscape and portrait.|Some, but not all pages have consistent design.  User experience is mixed.|The app has a consistent look and feel.  User experience is intuitive.|The app is simple to use and elegant.  The aesthetic and design perfectly match the app’s function.|
-|**Presentation**|Group is unenthusiastic and does not increase interest in their app.  Pacing is much too fast or slow. Script and deck are crude or non-existant. |Group has some stage presence.  Pacing is slightly off. Script and deck are rudimentary, but communicate key information. |Group has solid stage presence.  Pacing is reasonable. Script and deck engage audience and showcase their app. |Group expertly commands the stage.  Pacing is perfectly geared to maximize impact. Deck is beautifully designed and supplements a well-crafted script for a fantastic presentation.|
-|**Product**|Group does not explain who would use the app and what it does. Group does not present the problem their app will solve.|It is somewhat clear who would use the app and what it does.  Group presents either the problem or the solution, but not both.|Group clearly indicates who would use the app and what it does. Group presents both problem and solution. |Group clearly indicates who would use the app and why their app is specifially targeted towards the demographic that they picked. Group expertly explains the exact niche their app fills.|
+|**Presentation**|Group does not present problem that their app solves, is unenthusiastic and does not increase interest in their app.  Pacing is much too fast or slow.|Group presents either problem, or solution but not both.  Group has some stage presence.  Pacing is slightly off.|Group presents both a problem and their solution.  Group has solid stage presence.  Pacing is reasonable.|Group expertly explains the need their app fills.  Group expertly commands the stage.  Pacing is perfectly geared to maximize impact.|
+|**Use Case**|Group does not explain who would use the app and what it does.|It is somewhat clear who would use the app and what it does.|Group clearly indicates who would use the app and what it does.|Group clearly indicates who would use the app and why their app is specifially targeted towards the demographic that they picked.|
 
 
 ###Groups:  To be determined
 | Members | Team Name | Link to Repo | Mentor(s) |
 |---|---|---|---|
 |---|---|---|---|
-
-
-###App requirements:
-*  Overall product requirements
-  - Technically complex
-  - Compelling use case
-  - Polished implementation (UI/UX)
-  - Original product 
-  - An engaging pitch that connects with the audience
-*  Basic technical requirements 
-  - Does not crash
-  - Does not hang (little or no delay visible to the user)
-  - Does not fail when internet connection is slow/unavaialable
-  - Have a consistent look and feel visually across the app
-  - Consistent with [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/#//apple_ref/doc/uid/TP40006556-CH66-SW1)
-  - Look great in both landscape and portrait
-  - Have well-organized, high-quality code
-
 
 ### Tips & Ideas
 *  Things that would impress:
