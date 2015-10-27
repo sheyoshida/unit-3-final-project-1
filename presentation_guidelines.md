@@ -17,14 +17,14 @@ Time should be distributed evenly to each team member.
 
 2) Teams will be using a script
 
--Make sure that everything is well rehearsed and practiced
--There should be total clarity on which group member is speaking when
--The script should be memorized
+-Make sure that everything is well rehearsed and practiced <br>
+-There should be total clarity on which group member is speaking when <br>
+-The script should be memorized <br>
 
 
 
 3) Teams will be presenting from a deck.
 
--Include photos for the personal pitches
--Include engaging visuals and images
--Do not simply display the script
+-Include photos for the personal pitches <br>
+-Include engaging visuals and images <br>
+-Do not simply display the script <br>

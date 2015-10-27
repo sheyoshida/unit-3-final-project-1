@@ -2,8 +2,9 @@
 
 1) Presentations will take around 10 minutes.
 
-|---|---|
+###Presentation Schedule
 |Time|Event|
+|---|---|
 |0-3|Personal Pitches|
 |3-4|Discuss the problem that exists and how your app solves it|
 |4-5|Discuss use case|
