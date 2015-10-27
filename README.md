@@ -27,7 +27,7 @@ With that in mind, things to think about when ideating projects are the **techni
 |3|Thursday 11/12|---|---|
 |3|Saturday 11/14|---|---|
 |3|Sunday 11/15|---|[Weekly Retrospective](/weekly_retrospective.md)|
-|4|Tuesday 11/17|FIRST RELEASE + [DEMO](/presentation_guidelines.md)<br>Guest:Wesly Ross from Fueled|Push Beta Builds, Logos Due, Presentation Deck Due|
+|4|Tuesday 11/17|FIRST RELEASE + [DEMO](/presentation_guidelines.md)<br>Guest: Wesly Ross from Fueled|Push Beta Builds, Logos Due, Presentation Deck Due|
 |4|Thursday 11/19|---|---|
 |4|Saturday 11/21|---|---|
 |4|Sunday 11/22|---|[Weekly Retrospective](/weekly_retrospective.md)|
