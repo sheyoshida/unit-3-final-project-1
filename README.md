@@ -1,6 +1,6 @@
 ### Unit 3: Final Project
 
-Test
+Test Someother thing
 
 The goal of this final project is to utilize the technical and product skills you’ve been gathering over the last 5 months to build a custom app with your teammates and showcase your abilities. 
 
