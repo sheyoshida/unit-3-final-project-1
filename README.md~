@@ -1,7 +1,5 @@
 ### Unit 3: Final Project
 
-Test
-Another test
 
 All apps:
   *  Will solve a relevant problem that serves an existing market
