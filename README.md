@@ -94,3 +94,6 @@ With that in mind, things to think about when ideating projects are the **techni
   -  Really good photo journal app
   -  Really good note taking app
 
+
+
+
