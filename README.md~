@@ -14,7 +14,7 @@ With that in mind, things to think about when ideating projects are the **techni
 ###Final Project Schedule
 |Week|Day|Activity|Deliverables|
 |---|---|---|---|
-|1|Tuesday 10/27|Project Intro|Come to class with app ideas|
+|1|Tuesday 10/27|[Project Intro](https://docs.google.com/presentation/d/1eiKlYdSkdFxaOHpVqbyYTcl5AyKr9DO7zRITqwCcaB4/edit?usp=sharing)|Come to class with app ideas|
 |1|Thursday 10/29|Hackathon Groups + Planning|---|
 |1|Saturday 10/31|Hackathon|[Final project proposals](/project_proposals.md) due at 9:00 am|
 |1|Sunday 11/1|Hackathon|---|
