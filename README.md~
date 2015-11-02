@@ -7,7 +7,7 @@ All apps:
 
 With that in mind, things to think about when ideating projects are the **technical complexity**, **design**, and **product**.  
 
-[###Final Project Schedule](/final_project_schedule.md)
+###[Final Project Schedule](/final_project_schedule.md)
 
 ###Project Rubric
 |Criteria|0-Does not meet expectations|1-Partially meets expectations|2-Meets expectations|3-Exceeds expectations|
