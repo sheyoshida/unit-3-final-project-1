@@ -11,7 +11,7 @@ With that in mind, things to think about when ideating projects are the **techni
 
 ###[Final Project Rubric](/final_project_rubric.md)
 
-###[Groups](/final_project_groups)
+###[Groups](/final_project_groups.md)
 
 
 ###App requirements:
