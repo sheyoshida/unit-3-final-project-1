@@ -1,7 +1,7 @@
 ###Final Project Groups
 
-|---|---|---|
 |Members|Team Name|Link to Repo|
+|---|---|---|
 |Jackie <br> Brian <br> Umar <br> Elber|Geobased game|---|
 |Christella <br> Felicia <br> Justine <br> Daniel|TBD|---|
 |Derek <br> Xiulan <br> Christian <br> Chris|TBD|---|
