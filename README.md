@@ -11,10 +11,7 @@ With that in mind, things to think about when ideating projects are the **techni
 
 ###[Final Project Rubric](/final_project_rubric.md)
 
-###Groups:  To be determined
-| Members | Team Name | Link to Repo | Mentor(s) |
-|---|---|---|---|
-|---|---|---|---|
+###[Groups](/final_project_groups)
 
 
 ###App requirements:
