@@ -8,6 +8,6 @@
 |Diana <br> Mesfin <br> Jason <br> Varindra|Video compiler|[https://github.com/mesbekmek/Shoutout](https://github.com/mesbekmek/Shoutout)|
 |Charles <br> Ayuan <br> Erica|Goal setting|---|
 |Artur <br> Shena <br> Zoufishan <br> Henna|Travel App|https://github.com/xhenna92/unit-3-final-project|
-|Lauren <br> Jovanny <br> Bereket|Community Organizing|---|
+|Lauren <br> Jovanny <br> Bereket|Frame|https://github.com/JovannyEspinal/Frame|
 |Kaira <br> Natalia <br> Jamaal|TBD|https://github.com/NataliaEstrella/unit-3-final-project|
  
