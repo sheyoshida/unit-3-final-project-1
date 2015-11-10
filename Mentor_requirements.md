@@ -15,11 +15,11 @@ These debriefs will also be pushed to their repos
 
 ###Sample Agenda:
 
-Project update (10-15 minutes)
-Discuss goals of meeting (5 minutes)
-Discuss specific problems and solutions (40 minutes)
-Wrap-up (5 minutes)
-	-Discussion of what group will do during the week
-	-Planning for the following meeting
+Project update (10-15 minutes)  
+Discuss goals of meeting (5 minutes)  
+Discuss specific problems and solutions (40 minutes)  
+Wrap-up (5 minutes)  
+	-Discussion of what group will do during the week  
+	-Planning for the following meeting  
 
 
