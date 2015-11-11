@@ -6,19 +6,16 @@ As part of the final project, each group is matched with a mentor.  Mentors are 
 
 ###Mentor details for developers
 
-<ul>
+Each group will meet with final project mentors at least 1 hr a week
 
-<l>Each group will meet with final project mentors at least 1 hr a week </l>
+Groups will set an agenda for the conversation depending on their current needs and goals
 
-<l>Groups will set an agenda for the conversation depending on their current needs and goals</l>
+Agendas will be posted in their repo
 
-<l>Agendas will be posted in their repo</l>
+After their meetings, groups will debrief together to discuss key do-outs and takeaways
 
-<l>After their meetings, groups will debrief together to discuss key do-outs and takeaways</l>
+These debriefs will also be pushed to their repos
 
-<l>These debriefs will also be pushed to their repos</l>
-
-</ul>
 
 ###Sample Agenda:
 
