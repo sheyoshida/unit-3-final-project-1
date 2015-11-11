@@ -9,6 +9,6 @@
 |Charles <br> Ayuna <br> Eric|Goal setting|https://github.com/charleshkang/GoogleDemoProject|Dave Grandinetti|
 |Artur <br> Shena <br> Zoufishan <br> Henna|Travel App|https://github.com/xhenna92/unit-3-final-project|Jiaqi Liu|
 |Lauren <br> Jovanny <br> Bereket|Frame|https://github.com/JovannyEspinal/Frame|Sarah Scott|
-|Kaira <br> Natalia <br> Jamaal|The Poseidon Project|https://github.com/NataliaEstrella/unit-3-final-project|Michael Vilabrera)|
+|Kaira <br> Natalia <br> Jamaal|The Poseidon Project|https://github.com/NataliaEstrella/unit-3-final-project|Michael Vilabrera|
 
  
