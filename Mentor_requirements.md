@@ -1,5 +1,10 @@
 ##Final project mentor structure
 
+As part of the final project, each group is matched with a mentor.  Mentors are experts in their field and come from a range of companies inclduing Shopkeep, Artsy, Google, and Yahoo.  Mentors meet weekly with their project teams to lend their experience and assist teams in overcoming obstacles.   
+
+
+
+###Mentor details for developers
 
 Each group will meet with final project mentors at least 1 hr a week 
 
