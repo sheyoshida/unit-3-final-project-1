@@ -7,13 +7,13 @@ All apps:
 
 With that in mind, things to think about when ideating projects are the **technical complexity**, **design**, and **product**.  
 
-###[Final Project Schedule](/final_project_schedule.md)
+###[Schedule](/final_project_schedule.md)
 
 ###[Final Project Rubric](/final_project_rubric.md)
 
 ###[Groups](/final_project_groups.md)
 
-###[Mentor Requirements](/Mentor_requirements.md)
+###[Mentors](/Mentor_requirements.md)
 
 ###App requirements:
 *  Overall product requirements
