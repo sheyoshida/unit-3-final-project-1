@@ -2,6 +2,8 @@
 
 Each group will have a brief description of its core functionality that we at C4Q can use in the Demo Day booklet and other promotional material.
 
+Put these descriptions in your project proposal page under the heading "Description"
+
 Descriptions are limitted twitter-style to 140 characters
 
 ###Examples:
