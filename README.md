@@ -15,6 +15,8 @@ With that in mind, things to think about when ideating projects are the **techni
 
 ###[Mentors](/Mentor_requirements.md)
 
+###[First Release Format](/firstreleaseguidelines.png)
+
 ###App requirements:
 *  Overall product requirements
   - Technically complex
