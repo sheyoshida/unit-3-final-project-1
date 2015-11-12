@@ -7,7 +7,7 @@ All apps:
 
 With that in mind, things to think about when ideating projects are the **technical complexity**, **design**, and **product**.  
 
-###[Schedule](/final_project_schedule.md)
+###[Schedule](https://github.com/accesscode-2-2/unit-3/blob/master/README.md)
 
 ###[Final Project Rubric](/final_project_rubric.md)
 
