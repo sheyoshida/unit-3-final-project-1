@@ -2,7 +2,7 @@
 
 1) Presentations will take around 10 minutes.
 
-###Presentation Schedule
+###Final Presentation Schedule
 |Time|Event|
 |---|---|
 |0-3|Personal Pitches|
