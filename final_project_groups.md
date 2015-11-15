@@ -9,6 +9,6 @@
 |Charles <br> Ayuna <br> Eric|NeverLate|https://github.com/ayunav/NeverLateApp/blob/master/NeverLateProjectProposal.md|Dave Grandinetti|
 |Artur <br> Shena <br> Zoufishan <br> Henna|Face The Music|https://github.com/xhenna92/unit-3-final-project/blob/master/ProjectProposal.md|Jiaqi Liu|
 |Lauren <br> Jovanny <br> Bereket|Frame|https://github.com/JovannyEspinal/Frame|Sarah Scott|
-|Kaira <br> Natalia <br> Jamaal|The Poseidon Project|https://github.com/NataliaEstrella/unit-3-final-project/blob/master/project_proposals.md|Michael Vilabrera|
+|Kaira <br> Natalia <br> Jamaal <br> Dan|The Poseidon Project|https://github.com/NataliaEstrella/unit-3-final-project/blob/master/project_proposals.md|Michael Vilabrera|
 
  
